@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[download pdf]("joshuachoper.github.io/files/Choper_CV.pdf")
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
