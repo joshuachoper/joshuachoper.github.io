@@ -14,4 +14,4 @@ I am a postdoctoral researcher at Bocconi University. I hold a PhD in Sociology 
 
 Contact
 -----
-Email: joshuachoper{at}unibocconi{dot}it
+Email: joshua.choper{at}unibocconi{dot}it
