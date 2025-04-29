@@ -23,7 +23,7 @@ A second set of working papers consider inequalities in the economic consequence
 
 In another working paper, I investigate Black-White inequalities in the economic consequences of job displacement. This chapter is the first systematic study of Black-White inequalities after job displacement since Fairlie and Kletzer (1996). I show that Black-White inequalities in lost earnings from job displacement continued to narrow from the 1990s through the mid-2000s before massively increasing after the Great Recession. I demonstrate that rising Black-White inequality in lost earnings is largely limited to men and can be explained by Black workers' disadvantage in labor market matching after job displacement. Further, I demonstrate that observed racial inequalities in the costs of job displacement severely underestimate true inequalties in the effect of displacement. Using Heckman-corrected models, I demonstrate that after accounting for racial differences in selection into reemployment, there are significant racial disparities among men in the effect of displacement on earnings during recessions in the early 1980s, early 1990s and the Great Recession.
 
-* [Working Paper](http://joshuachoper.github.io/files/racejobdisplacement_October2024.pdf)
+* [Working Paper](http://joshuachoper.github.io/files/racejobdisplacement_October2024.pdf)(Revise and resubmit, *Social Forces*)
 
 ### Modeling Intragenerational Mobility
 
