@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
-(with Daniel Schneider and Kristen Harknett) ["Uncertain Time: Precarious Schedules and Job Turnover in the U.S. Service Sector."](https://journals.sagepub.com/doi/abs/10.1177/00197939211048484) *ILR Review*. 2022.
+["Uncertain Time: Precarious Schedules and Job Turnover in the U.S. Service Sector."](https://journals.sagepub.com/doi/abs/10.1177/00197939211048484) *ILR Review*. 2022. (with Daniel Schneider and Kristen Harknett)
 
 # Current Projects
 
@@ -28,7 +28,7 @@ A second strand of my research examines inequalities in the low-wage labor marke
 
 * ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](http://joshuachoper.github.io/files/managers_vignettes_DISTRIBUTE_Aug2025.pdf)(Revise and resubmit, *Social Forces*)
 
-* (with Lukas Lehner and Zachary Parolin) "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" (Revise and resubmit, *American Sociological Review*) (available upon request)
+* "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" (Revise and resubmit, *American Sociological Review*) (with Lukas Lehner and Zachary Parolin) (available upon request)
 
 
 {% if author.googlescholar %}
