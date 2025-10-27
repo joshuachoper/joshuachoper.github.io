@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
+["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](http://joshuachoper.github.io/files/managers_vignettes_DISTRIBUTE_Oct2025.pdf) *Social Forces*. Forthcoming.
+{% capture details %}
+This study advances sociological theories of motherhood-based workplace inequalities by examining how frontline managers shape mothers’ access to stable work schedules in the US service sector. Prior research has shown that mothers in the US service sector experience intense conflict between the time demands of motherhood and employers’ expectations that employees will be available to work unstable work schedules, yet little work has investigated sources of variation in mothers’ exposure to schedule instability. Building on and synthesizing theories of homophily, expectation states theory, and “queen bee” theories of women in management, I propose a model in which managers’ own gender and parenthood status structure their responses to their employees’ scheduling needs. Female managers who are mothers are theorized to exhibit homophily and produce motherhood scheduling advantages, while female managers without children are expected to penalize mothers. Analyses of survey and experimental data collected from a large national sample of US retail and food service workers support this theoretical synthesis, showing that motherhood advantages in scheduling appear under male managers and female managers who are mothers, but erode under female managers without children. By positioning motherhood—not gender alone—as the status dimension that most directly collides with ideal worker norms, this work highlights an important determinant of when women in management act as agents of change and when they reinforce inequality. More broadly, this study frames managerial discretion as a key mechanism linking status expectations, manager- employee relations, and organizational outcomes, advancing theory on the micro-foundations of workplace inequality.
+{% endcapture %}
+{% capture summary %}Abstract{% endcapture %}{% include details.html %}
+
 ["Uncertain Time: Precarious Schedules and Job Turnover in the U.S. Service Sector."](https://journals.sagepub.com/doi/abs/10.1177/00197939211048484) *ILR Review*. 2022. (with Daniel Schneider and Kristen Harknett)
 
 # Current Projects
@@ -37,12 +43,6 @@ Occupational polarization, characterized by rising employment and wages at the t
 A second strand of my research examines inequalities in the low-wage labor market. This work considers the individual, organizational, and structural forces driving both the evolution of employment relations in the low-wage labor market and economic inequalities among low-wage workers.
 
 ### Working Papers
-
-* ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](http://joshuachoper.github.io/files/managers_vignettes_DISTRIBUTE_Oct2025.pdf)(Forthcoming, *Social Forces*)
-{% capture details %}
-This study advances sociological theories of motherhood-based workplace inequalities by examining how frontline managers shape mothers’ access to stable work schedules in the US service sector. Prior research has shown that mothers in the US service sector experience intense conflict between the time demands of motherhood and employers’ expectations that employees will be available to work unstable work schedules, yet little work has investigated sources of variation in mothers’ exposure to schedule instability. Building on and synthesizing theories of homophily, expectation states theory, and “queen bee” theories of women in management, I propose a model in which managers’ own gender and parenthood status structure their responses to their employees’ scheduling needs. Female managers who are mothers are theorized to exhibit homophily and produce motherhood scheduling advantages, while female managers without children are expected to penalize mothers. Analyses of survey and experimental data collected from a large national sample of US retail and food service workers support this theoretical synthesis, showing that motherhood advantages in scheduling appear under male managers and female managers who are mothers, but erode under female managers without children. By positioning motherhood—not gender alone—as the status dimension that most directly collides with ideal worker norms, this work highlights an important determinant of when women in management act as agents of change and when they reinforce inequality. More broadly, this study frames managerial discretion as a key mechanism linking status expectations, manager- employee relations, and organizational outcomes, advancing theory on the micro-foundations of workplace inequality.
-{% endcapture %}
-{% capture summary %}Abstract{% endcapture %}{% include details.html %}
 
 * "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" (Revise and Resubmit, *American Sociological Review*) (with Lukas Lehner and Zachary Parolin) (available upon request)
 {% capture details %}
