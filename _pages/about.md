@@ -14,4 +14,4 @@ I am a postdoctoral research fellow at University College London. I hold a PhD i
 
 Contact
 -----
-Email: joshua.choper{at}unibocconi{dot}it
+Email: j.choper{at}ucl{dot}ac{dot}uk
