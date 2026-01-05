@@ -18,7 +18,7 @@ author_profile: true
 One strand of my research investigates how income and job mobility over the career contribute to economic inequality, with a particular focus on how the structure of jobs in local labor markets shapes inequality in workers' career paths. 
 
 ### Working Papers
-* ["Stratification After Job Displacement: The Role of Job Tasks, Queueing, and the Declining Demand for Routine Labor"] (Revise and Resubmit, *Socio-Economic Review*) (available upon request)
+* "Stratification After Job Displacement: The Role of Job Tasks, Queueing, and the Declining Demand for Routine Labor" (Revise and Resubmit, *Socio-Economic Review*) (available upon request)
 
 * "Local Labor Market Polarization and Inequality in Career Earnings Mobility" (available upon request)
 
