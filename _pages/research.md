@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
+* ["Black-White Inequality in Earnings Losses After Job Displacement, 1981-2020."](http://joshuachoper.github.io/files/racejobdisplacement_distribute.pdf) *Social Forces*. Forthcoming.
+
 * ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](http://joshuachoper.github.io/files/managers_vignettes_DISTRIBUTE_Oct2025.pdf) *Social Forces*. Forthcoming.
 
 * ["Uncertain Time: Precarious Schedules and Job Turnover in the U.S. Service Sector."](https://journals.sagepub.com/doi/abs/10.1177/00197939211048484) *ILR Review*. 2022. (with Daniel Schneider and Kristen Harknett)
@@ -16,9 +18,7 @@ author_profile: true
 One strand of my research investigates how income and job mobility over the career contribute to economic inequality, with a particular focus on how the structure of jobs in local labor markets shapes inequality in workers' career paths. 
 
 ### Working Papers
-* ["Black-White Inequality in Earnings Losses After Job Displacement, 1980-2020"](http://joshuachoper.github.io/files/racejobdisplacement_SFRR1_todistribute.pdf) (Revise and Resubmit, *Social Forces*)
-
-* ["Stratification After Job Displacement: The Role of Job Tasks, Queueing, and the Declining Demand for Routine Labor"](http://joshuachoper.github.io/files/intro2_displacementtasks.pdf) (Revise and Resubmit, *Socio-Economic Review*)
+* ["Stratification After Job Displacement: The Role of Job Tasks, Queueing, and the Declining Demand for Routine Labor"] (Revise and Resubmit, *Socio-Economic Review*) (available upon request)
 
 * "Local Labor Market Polarization and Inequality in Career Earnings Mobility" (available upon request)
 
