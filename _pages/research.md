@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
-* ["Black-White Inequality in Earnings Losses After Job Displacement, 1981-2020."](http://joshuachoper.github.io/files/racejobdisplacement_distribute.pdf) *Social Forces*. Forthcoming.
+* ["Black-White Inequality in Earnings Losses After Job Displacement, 1981-2020."](https://doi.org/10.1093/sf/soaf212) *Social Forces*. Forthcoming.
 
-* ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](http://joshuachoper.github.io/files/managers_vignettes_DISTRIBUTE_Oct2025.pdf) *Social Forces*. Forthcoming.
+* ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](https://doi.org/10.1093/sf/soaf193) *Social Forces*. Forthcoming.
 
 * ["Uncertain Time: Precarious Schedules and Job Turnover in the U.S. Service Sector."](https://journals.sagepub.com/doi/abs/10.1177/00197939211048484) *ILR Review*. 2022. (with Daniel Schneider and Kristen Harknett)
 
@@ -27,7 +27,7 @@ A second strand of my research examines inequalities in the low-wage labor marke
 
 ### Working Papers
 
-* "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" (Revise and Resubmit, *American Sociological Review*) (with Lukas Lehner and Zachary Parolin) (available upon request)
+* "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" (Accepted, *American Sociological Review*) (with Lukas Lehner and Zachary Parolin) (available upon request)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
