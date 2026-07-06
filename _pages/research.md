@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 # Publications
-* "Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters" *American Sociological Review*. Forthcoming. (with Lukas Lehner and Zachary Parolin) (available upon request)
-
 * ["Black-White Inequality in Earnings Losses After Job Displacement, 1981-2020."](https://doi.org/10.1093/sf/soaf212) *Social Forces*. Forthcoming.
+
+* ["Countervailing Powers: Labor Unions Against the Buyer Power of Walmart Supercenters"](https://doi.org/10.1177/00031224261437057) *American Sociological Review*. 2026. (with Lukas Lehner and Zachary Parolin)
 
 * ["Managing Motherhood: How ‘Queen Bee’ Managers in the US Service Sector Reduce Motherhood Advantages in Work Scheduling."](https://doi.org/10.1093/sf/soaf193) *Social Forces*. 2026.
 
