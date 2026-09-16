@@ -22,9 +22,10 @@ One strand of my research investigates how income and job mobility over the care
 ### Working Papers
 * "Stratification After Job Displacement: The Role of Job Tasks, Queueing, and the Declining Demand for Routine Labor" (Conditionally Accepted, *Socio-Economic Review*) (available upon request)
 
-### In {reparation
-* "The Limits of Labor Power: How Employer Buyer Power Moderates the Union Wage Premium” (with Lukas Lehner and Zachary Parolin; in preparation for invited contribution to special issue of *British Journal of Industrial Relations*)
+### In Preparation
+* "The Limits of Labor Power: How Employer Buyer Power Moderates the Union Wage Premium” (with Lukas Lehner and Zachary Parolin; invited contribution to special issue of *British Journal of Industrial Relations*)
 * "Inherited Contacts and Intergenerational Persistence" (with Per Engzell and Nathan Wilmers)
+* “Local Labor Market Polarization and Inequality in Career Earnings Mobility"
 
 ## Inequality in the Low-Wage Labor Market
 A second strand of my research examines inequalities in the low-wage labor market. This work considers the individual, organizational, and structural forces driving both the evolution of employment relations in the low-wage labor market and economic inequalities among low-wage workers.
@@ -33,7 +34,7 @@ A second strand of my research examines inequalities in the low-wage labor marke
 * "Inequality and the Making of the Platform Economy" (with Zachary Parolin; manuscript available upon request)
 
 ### In {reparation
-* "The Career Mobility Dynamics of Job Quality in the US Service Sector" (in preparation)
+* "The Career Mobility Dynamics of Job Quality in the US Service Sector"
 
 ## Educational sorting, student classification, and life course inequalities
 A third strand of my research examines how organizational processes within schools contribute to the sorting of students across stratified curricula and institutions, and how these dynamics shape economic outcomes and social mobility in adulthood.

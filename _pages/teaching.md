@@ -17,9 +17,13 @@ author_profile: true
 ## Graduate
 ### University of California, Berkeley
 * Sociology 271B: Methods of Sociological Research (Graduate Student Instructor)
-  * Probability and statistics for first-year PhD students
+  * Probability and statistics for first-year Sociology PhD students
 * Sociology 271C: Methods of Sociological Research (Graduate Student Instructor)
-  * Causal inference for first-year PhD students
+  * Causal inference for first-year Sociology PhD students
+  
+### University College London
+* SOCS0015: Advanced Social Data Science (Co-Lead Instructor)
+  * Applied regression analysis for Social Research Methods with Data Science MSc students
 
 ## Awards
 * Outstanding GSI Award (2020)
