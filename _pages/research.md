@@ -33,7 +33,7 @@ A second strand of my research examines inequalities in the low-wage labor marke
 ### Working Papers
 * "Inequality and the Making of the Platform Economy" (with Zachary Parolin; manuscript available upon request)
 
-### In {reparation
+### In Preparation
 * "The Career Mobility Dynamics of Job Quality in the US Service Sector"
 
 ## Educational sorting, student classification, and life course inequalities
