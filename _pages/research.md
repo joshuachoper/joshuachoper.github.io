@@ -24,7 +24,7 @@ One strand of my research investigates how income and job mobility over the care
 
 ### In Preparation
 * "The Limits of Labor Power: How Employer Buyer Power Moderates the Union Wage Premium” (with Lukas Lehner and Zachary Parolin; invited contribution to special issue of *British Journal of Industrial Relations*)
-* "Inherited Contacts and Intergenerational Persistence" (with Per Engzell and Nathan Wilmers)
+* "Inherited Contacts and Intergenerational Persistence" (with Per Engzell)
 * “Local Labor Market Polarization and Inequality in Career Earnings Mobility"
 
 ## Inequality in the Low-Wage Labor Market
